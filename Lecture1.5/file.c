@@ -7,7 +7,6 @@ int main()
     return 0;
 }
 
-//notes
 /*
 If you can alter environment variables you can redirect system
 calls to search in directories of your choosing
