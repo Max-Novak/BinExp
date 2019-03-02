@@ -1,0 +1,55 @@
+TOPOLOGY:
+TODO: --> Research Python, Django, and kubernetes clusters + docker --> How to implement
+
+	--> I want a user portal accessible from anywhere
+		|
+		|
+		-->You can access dockers prestaged with different configured OS's
+		-->Each OS will have a task selection like Forensics / pwnrev/ etc
+			|
+			--> They will be loaded with the tools required for each
+	--> Where are the files stored --> FTP alongside the client server
+
+
+
+~!!!!!!~-->Topology will be filled later after more research is done
+	MAIN FOLDER
+	|
+	-->Writeup generation template
+	|
+	-->CTF Solver
+	|	|
+	|	-->Dependacy programs
+	|	|
+	|	-->Pwn
+	|	|
+	|	-->Rev
+	|	|
+	|	-->Forensics
+	|	|
+	|	-->Crypto
+	|	|
+	|	-->Web
+	|	|
+	|	-->Misc
+	|	|
+	|	-->General tools like convert asci to hex + other
+	-->Notes / Resources
+		|
+		-->Past writeups from other teamss
+		|
+		-->Tutorial slides
+			|
+			-->RPI slides
+			|
+			-->BinExp Indian guy slides
+
+Lecture 1
+bin/rev:	stack.gif --> add to program a stack visuializer --> maybe label mememory
+		read elf + strings --> output into pdf format --> also add flag format grep functionality
+		heap visuialization techniques
+		hexdump -d <program name>
+		Add functionality to view parameters passed to to functions in a program
+		Buffer overflow automation
+		Return to libc automation --> Finds addresses 
+misc:		exiftool output into pdf for forensics + stegsolve with many tools --> 
