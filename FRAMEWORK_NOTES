@@ -111,6 +111,9 @@ bin/rev:	stack.gif --> add to program a stack visuializer --> maybe label mememo
 			arenas contain bins
 				bins hold chunks -->
 		There are even DUAF
+		https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/
+
+		THIS IS REALLY GOOD --> https://github.com/shellphish/how2heap
 rev:
 		Learn z3 and implement tempalte in python
 		
