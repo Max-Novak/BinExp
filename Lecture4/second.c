@@ -36,3 +36,9 @@ int main(int argc, char **argv)
     return 0;
 }
 
+/*
+I think this is the same as first
+I have never learned about function pointers so i should check those out
+Overwrite buffer then instead of any value you need to pack an address to func
+*/
+

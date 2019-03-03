@@ -32,3 +32,7 @@ int main(int argc, char **argv)
 	foo(argv[1]);
 	return 0;
 }
+
+/*insert shellcode into buffer
+over write return address to point to beginning of buffer
+*/

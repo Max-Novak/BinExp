@@ -30,3 +30,10 @@ int main(int argc, char **argv)
 	}
 }
 
+/*
+TODO: Create exploit string
+Psuedocode --> modified exists directly above the buffer
+overwrite buffer and the immediate last byte should be modfiied
+"A"*64+"BBBB"
+*/
+

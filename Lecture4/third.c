@@ -30,3 +30,9 @@ int main()
     foo();
     return 0;
 }
+
+/*
+Similar to 3 but now you need to find exact offset
+return address --> ebp --> junk --> buffer
+put bar address into return address
+*/

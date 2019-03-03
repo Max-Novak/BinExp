@@ -35,3 +35,8 @@ int main()
     foo();
     return 0;
 }
+
+/*Not sure how this is different
+try entering a  different function i  guess?
+Is it possible to enter both in 1 run
+*/

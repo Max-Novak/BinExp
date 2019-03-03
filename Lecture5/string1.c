@@ -24,3 +24,7 @@ int main(int argc, char** argv)
         printf("Cool you changed it .. :) ");
     return 0;
 }
+
+/*
+same as string.c i believe
+*/

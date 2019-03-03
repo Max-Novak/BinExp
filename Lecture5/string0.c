@@ -19,3 +19,7 @@ int main(int argc, char** argv) {
     printf(buffer);
     return 0;
 }
+
+/*
+Practice using %n and %p
+*/
